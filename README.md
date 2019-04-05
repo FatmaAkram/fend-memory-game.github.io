@@ -12,4 +12,4 @@ Test and train your memory skills with this quick-play game! Match all the cards
 
 
 ## Inside the game
-![FEND-Memory-Game](https://d17h27t6h515a5.cloudfront.net/topher/2017/February/589bb972_screen-shot-2017-02-07-at-3.03.15-pm/screen-shot-2017-02-07-at-3.03.15-pm.png)
+![FEND-Memory-Game](https://i.imgur.com/ssQJcUN.png)
